@@ -1,2 +1,7 @@
-# Project exclude paths
+echo "# Java_03_2020" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Andrew116-del/Java_03_2020.git
+git push -u origin master
 /out/
